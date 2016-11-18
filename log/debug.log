@@ -1,0 +1,20 @@
+2016-11-18 10:05:01 INFO  UserDAO:80 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:07:23 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:09:29 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:13:32 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:14:08 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:14:35 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:14:59 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:16:10 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:19:24 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
+2016-11-18 10:21:01 INFO  UserDAO:79 - QUERY:INSERT INTO UserP3 (dni,nombre,direccion) VALUES (?,?,?);
+
